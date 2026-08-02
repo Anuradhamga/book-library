@@ -1,0 +1,57 @@
+.container{
+    width: 700px;
+    margin:auto;
+}
+header{
+    border: 2px solid rgb(236, 41, 236) ;
+    padding: 15px;
+    text-align:center;
+    border-radius: 12px;
+    background-color: rgb(216, 140, 223);
+
+}
+nav{border : 1px solid rgba(160, 139, 160, 0) ;
+    padding: 10px;
+    text-align:center;
+    margin-top: 10px;
+    background-color: oklab(52.547% 0.01062 -0.00972 / 0.288);
+    border-radius: 12px;
+}
+.book{
+    display: flex;
+    gap: 10px;
+    margin-top: 10p
+    flex:1;   
+    padding: 20px;
+    text-align:center;
+}
+.book-card{
+    width: 500px;
+    padding: 10px;
+    border: 1px solid rgb(149, 40, 212);
+    border-radius:12px;
+    text-align:center;
+    background-color: rgba(182, 153, 185, 0.568);
+    
+}
+button{
+    margin-top: 10px;
+    padding: 5px 20px;
+
+}
+.register{
+    border:1px solid rgba(226, 223, 226, 0);
+    margin-top: 10px;
+    padding:10px;
+    text-align:center;
+    border-radius: 12px;
+    background-color: rgba(129, 118, 131, 0.336);
+}
+footer{
+    border: 2px solid rgb(236, 41, 236) ;
+    background-color: rgb(221, 183, 226);
+    padding: 15px;
+    text-align:center;
+    margin-top: 10px;
+    border-radius: 12px;
+}
